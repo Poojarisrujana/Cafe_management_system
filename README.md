@@ -9,7 +9,7 @@ menu= {
 }
 
 #Greetings
-print("Welcome to DSP Restaurant")
+print("Welcome to Shizuka's Restaurant")
 
 #menu
 print("Pizza: 40Rs\nPaste: 50Rs\nBurger: 60Rs\nSalad: 70Rs\nCoffee: 80Rs")
